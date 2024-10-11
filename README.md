@@ -8,10 +8,14 @@
 downloaded and added to the Arduino IDE to compile the code. Library can be added by going to 
 Sketch -> Include Library -> Add .ZIP Library and selecting the downloaded library.
 
+[!NOTE]
+
+[This documentation](https://docs.arduino.cc/retired/hacking/software/PortManipulation/) has been used to understand which ports corespond to which pins on the Arduino Uno board when programming with C.
+
 1.  Set up the following circuit with breadboard, Arduino-uno, resistor (1K), Led and 
 jumpers.
 
-![Figure 1 - Circuit](placeholder.png)
+![Figure 1 - Circuit](https://github.com/fsaltunyuva/CMPE453-Lab1-BlinkingLEDWithDelays/blob/main/README%20Figures/Figure%201.png)
 
 2. Program the microcontroller by using the 3rd, 6th and 9th pins of Arduino board and 
 writing code on Arduino IDE. Provide the connection between your computer and 
