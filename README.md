@@ -3,13 +3,11 @@
 ## Lab 1 - Blinking an LED with Predefined Delays
 
 [!NOTE]
-
 [AVR Programming Library](https://github.com/hexagon5un/AVR-Programming/tree/master/AVR-Programming-Library) must be 
 downloaded and added to the Arduino IDE to compile the code. Library can be added by going to 
 Sketch -> Include Library -> Add .ZIP Library and selecting the downloaded library.
 
 [!NOTE]
-
 [This documentation](https://docs.arduino.cc/retired/hacking/software/PortManipulation/) has been used to understand which ports corespond to which pins on the Arduino Uno board when programming with C.
 
 1.  Set up the following circuit with breadboard, Arduino-uno, resistor (1K), Led and 
